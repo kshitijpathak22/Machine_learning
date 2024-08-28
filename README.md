@@ -24,7 +24,6 @@ matplotlib
 Installing
 
 **Instructions for setting up the project environment:**
-bash
 pip install numpy pandas tensorflow scikit-learn imblearn seaborn matplotlib
 
 **Usage**
